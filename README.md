@@ -1,2 +1,2 @@
-# -C-.NET-Core-SQL-Server
+#C.NET-Core-SQL-Server
 Documentations
